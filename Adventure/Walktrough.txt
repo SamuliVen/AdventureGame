@@ -1,0 +1,32 @@
+Walktrough
+
+
+Follow these commands to get through the game in fastest possible way.
+
+Old Market Square: go north
+Main Road1: go east
+Parking lot: go north
+Church: get lighter
+Church: go west
+Main Road2: go north
+Main Road3: go west
+Pharmacy: get dynamite
+Pharmacy: go east
+Main Road3: go north
+Main Road4: get paddle
+Main Road4: go south
+Main Road3: go east
+Ruins: shoot ghost
+Ruins: use dynamite
+Ruins: go north
+Dock: row
+Downstream: go north
+Ruined road: go east
+Graveyard: shoot ghost
+Graveyard: get stabilizer
+Graveyard: go west
+Ruined road: go west
+North bridge: go north
+Meteor: use stabilizer
+
+Congratulations, you finished the game!
